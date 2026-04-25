@@ -1,0 +1,91 @@
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.exe
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.deps.json
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.runtimeconfig.json
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.pdb
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.Properties.Resources.resources
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.GenerateResource.cache
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.AssemblyInfoInputs.cache
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.AssemblyInfo.cs
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\refint\LOGON APP.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.pdb
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.genruntimeconfig.cache
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\ref\LOGON APP.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.AssemblyReference.cache
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.Up2Date
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\cloud.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\clouds.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\high-temp.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\high-wind.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\low-temp.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\low-wind.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\mid-temp.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\humidity-high.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\humidity-low.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\cold-feel.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\hot-feel.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\mid-feel.png
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.sourcelink.json
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.ApplicationForm.resources
+C:\Users\mihaj\source\repos\c# WinForms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\notes.json
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\cloud.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\clouds.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\cold-feel.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\high-temp.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\high-wind.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\hot-feel.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\humidity-high.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\humidity-low.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\low-temp.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\low-wind.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\mid-feel.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\assets\weather\mid-temp.png
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.exe
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.deps.json
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.runtimeconfig.json
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.pdb
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.CodeDom.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Management.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.ApplicationForm.resources
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.Properties.Resources.resources
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.GenerateResource.cache
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.AssemblyInfoInputs.cache
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.AssemblyInfo.cs
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.sourcelink.json
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.csproj.Up2Date
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\refint\LOGON APP.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.pdb
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON APP.genruntimeconfig.cache
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\ref\LOGON APP.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.LoginForm.resources
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\obj\Debug\net8.0-windows\LOGON_APP.RegisterForm.resources
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\LOGON APP.dll.config
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\VISUAL STUDIO\c# winforms\LOGON APP\LOGON APP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
